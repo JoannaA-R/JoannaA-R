@@ -16,6 +16,7 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 * Git/GitHub
 * Visual Studio Code
 * SQL
+* Python (beginner)
 * Agile SCRUM
 * Software testing
 * Creating test cases
