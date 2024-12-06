@@ -16,6 +16,7 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 * Git/GitHub
 * Visual Studio Code
 * SQL
+* Jenkins
 * Python (beginner)
 * Agile SCRUM
 * Software testing
@@ -32,14 +33,14 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 
 ### Courses completed 🎯
 
-* Jira - https://www.udemy.com/course/jira-essentials/
-* SQL - https://www.udemy.com/course/sql-intro/
-* Git / GitHub https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero/
-
+* Jira - https://www.udemy.com/course/jira-essentials
+* SQL - https://www.udemy.com/course/sql-intro
+* Git / GitHub https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero
+* Jenkins - https://www.udemy.com/course/jenkins-od-podstaw
+  
 -----
 ### I’m currently learning...🌱
 
-* Jenkins - https://www.udemy.com/course/jenkins-ci-cd-pipelines-devops-for-beginners/
 * Postman - https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/
 * Practical testing- https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/
 * PlayWright - https://www.udemy.com/course/playwright-from-zero-to-hero/
