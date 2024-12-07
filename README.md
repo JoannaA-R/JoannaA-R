@@ -59,8 +59,7 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 
 -----
 
-### My sandpits 🖥️
-
+### My sandpits / training zone 🤸‍♂️
 * http://mrbuggy.pl/
 * https://academybugs.com/
 * https://mantisbt.org/demo.php
@@ -71,7 +70,8 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 
 ### My projects 📋
 
-* https://www.guru99.com/live-testing-project.html - Live Manual Testing Project: Online Software Testing Practice (creating test cases from documentation, website testing, bug reports) 
+* https://www.guru99.com/live-testing-project.html - Live Manual Testing Project: Online Software Testing Practice (creating test cases from documentation, website testing, bug reports)
+* https://www.guru99.com/live-agile-testing-project.html - Live Agile Testing Project
 * https://tester.test.io/profile_pages/joannaar - comprehensive training on manual testing and real experience in bug finding & reporting
 * https://nest.testbirds.com/dashboard - testing courses and real experience
 
@@ -79,13 +79,13 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 
 ### My test case examples 📒
 
-[Part of Guru99's virtual experience program - my test case](https://docs.google.com/spreadsheets/d/19cu1x7wWVRFzdnaI1gN6iAwG93nZN4FBuIKhpo5aTPg/edit?gid=3#gid=3)
+[Guru99 - Virtual Experience Program (Live Testing Project)- my test case](https://docs.google.com/spreadsheets/d/19cu1x7wWVRFzdnaI1gN6iAwG93nZN4FBuIKhpo5aTPg/edit?gid=3#gid=3)
 
 -----
 
 ### My bug reports 📒
 
-[Part of Guru99's virtual experience program - my bug tracker](https://docs.google.com/spreadsheets/d/1yaMkWBykw6LEMuhpjdh0OfrWZr6pB65aL2oBTXrowTQ/edit?gid=0#gid=0)
+[Guru99 - Virtual Experience Program (Live Testing Project) - my bug tracker](https://docs.google.com/spreadsheets/d/1yaMkWBykw6LEMuhpjdh0OfrWZr6pB65aL2oBTXrowTQ/edit?gid=0#gid=0)
 
 
 
