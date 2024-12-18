@@ -18,6 +18,9 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 * SQL
 * Jenkins
 * Postman
+* JMeter
+* TestLink
+* XRay
 * Python (beginner)
 * Agile SCRUM
 * Software testing
@@ -44,7 +47,7 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 -----
 ### I’m currently learning...🌱
 
-* Practical testing- https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/
+* Practical testing bootcamp - https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/
 * PlayWright - https://www.udemy.com/course/playwright-from-zero-to-hero/
 * Selenium Webdriver - https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/
 
