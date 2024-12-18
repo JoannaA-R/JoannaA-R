@@ -17,11 +17,13 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 * Visual Studio Code
 * SQL
 * Jenkins
+* Postman
 * Python (beginner)
 * Agile SCRUM
 * Software testing
 * Creating test cases
 * Bugs tracker
+* MS 365 Suite
 
 --------
 
@@ -37,11 +39,11 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 * SQL - https://www.udemy.com/course/sql-intro
 * Git / GitHub https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero
 * Jenkins - https://www.udemy.com/course/jenkins-od-podstaw
+* Postman - https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/
   
 -----
 ### I’m currently learning...🌱
 
-* Postman - https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/
 * Practical testing- https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/
 * PlayWright - https://www.udemy.com/course/playwright-from-zero-to-hero/
 * Selenium Webdriver - https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/
