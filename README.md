@@ -42,12 +42,14 @@ I am excited to grow as a software tester and contribute to delivering high-qual
 * SQL - https://www.udemy.com/course/sql-intro
 * Git / GitHub https://www.udemy.com/course/master-git-and-github-in-5-days-go-from-zero-to-hero
 * Jenkins - https://www.udemy.com/course/jenkins-od-podstaw
-* Postman - https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/
+* Postman - https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/ 
+* Practical testing bootcamp - https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/
+* Chrome DevTools: Od podstaw do Eksperta - https://www.udemy.com/course/chrome-devtools-od-podstaw-do-eksperta/
   
 -----
 ### I’m currently learning...🌱
 
-* Practical testing bootcamp - https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp/
+* Google Cybersecurity Professional Certificate - Coursera
 * PlayWright - https://www.udemy.com/course/playwright-from-zero-to-hero/
 * Selenium Webdriver - https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/
 
