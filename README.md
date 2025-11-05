@@ -3,10 +3,10 @@
 ### About me
 👋 Hi, I’m @JoannaA-R
 
-I am a passionate and dedicated professional just starting my career as a software tester, with a solid foundation built on my ISTQB certification and ongoing studies in software testing. 
-With a background in finance and quality assurance I bring a robust set of transferable skills, such as analytical and creative mindset, proven attention to detail, clear communication and a proactive approach to identifying issues and ensuring smooth user experience. 
-I am committed to continuous learning, expanding my skill set, staying up to date with the latest tools, techniques, and industry trends.
+I am a dedicated and results-driven professional with practical experience in technically challenging, performance-sensitive software projects and a solid foundation built on my ISTQB certification and postgraduate studies in software testing. 
+I combine analytical thinking with technical proficiency and a passion for continuous improvement by expanding my skill set, exploring the latest tools, methodologies, and  engineering practices.
 I am excited to grow as a software tester and contribute to delivering high-quality, reliable software solutions.
+
 
 ----
 ### Tech stack 🚀
